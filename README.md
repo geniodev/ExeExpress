@@ -81,3 +81,4 @@ Inclementar automaticamente pastas e Dlls do seu projeto.
 
 Desenvolvedor: RA (Ricardo Andrade)
 Versão: 1.0.0
+Contato Whatsapp: (64) 9.8138-5940
