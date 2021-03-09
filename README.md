@@ -57,8 +57,8 @@ A Bibliteca "PyInstaller" busca as dependencias de forma automatizada.
 
 
 #Consideração Final
-1-Não sou responsável por erros que venha acontecer com a instalação ou falha em execuções por causa de arquivos ou dll. Cada projeto tem suas peculiaridades e são infinitas.
-2-O Projeto não está completo, leia sobre o "Desenvolvimento Atual:"
+1-Não sou responsável por erros que venha acontecer com a instalação ou falha em execuções por causa de arquivos ou dll ou outros motivos. Cada projeto tem suas peculiaridades e são infinitas.
+2-O Projeto não está perfeitamente completo, leia sobre o "Desenvolvimento Atual:"
 3-O projeto visa automatizar muitas funções que o usuario faria manualmente, mas que a biblioteca "PyInstaller" possui porem desconhecidas por grande parte dos profissional.
 4-O projeto seria como um template para criar executaveis de forma automatizada, porem necessita de testes e de orientação com um profissional.
 
