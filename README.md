@@ -65,4 +65,3 @@ A Bibliteca "PyInstaller" busca as dependencias de forma automatizada.
 
 Desenvolvedor: RA (Ricardo Andrade)
 Versão: 2.0.0
-Contato Whatsapp: (64) 9.8138-5940
