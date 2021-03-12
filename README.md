@@ -36,7 +36,7 @@ Linguagem Python</br>
 
 
 &nbsp;
-*como usar:*</br>
+#### como usar:</br>
 &nbsp;
 Crie uma pasta e coloque todo o seu projeto e arquivos nele.</br>
 Copie um dos arquivos "InstallDebugInvisivel.exe"/"InstallNormalInvisivel.exe"/"InstallTelaExternaInvisivel.exe" para a pasta dos seu projeto.</br>
@@ -45,7 +45,7 @@ Clique no arquivo executável.</br>
 &nbsp;
 
 &nbsp;
-*Como funciona:*</br>
+#### Como funciona:</br>
 &nbsp;
 O sistema de gerar o executável é automatico, se existir somente 1 arquivo .py onde estiver o gerador, então este será considerado o projeto, caso contrário ele irá perguntar na tela.</br>
 Ao executar um dos Install python ("InstallDebugInvisivel.exe", "InstallNormalInvisivel.exe", "InstallTelaExternaInvisivel.exe") dentro da sua pasta de projeto.</br>
@@ -60,7 +60,7 @@ No final se tudo ocorrer bem, terá uma pasta e dentro dela o executavel ou o pr
 
 
 &nbsp;
-*Obrigatoriedades / Necessário*</br>
+#### Obrigatoriedades / Necessário</br>
 &nbsp;
 Ter o anaconda instalado e anexado ao seu path do sistema.</br>
 Ter somente 1 ambiente virtual criado no anaconda, o ambiente "base" padrão será carregado caso não encontre o ambiente virtual do seu projeto.</br>
@@ -72,7 +72,7 @@ Não mudar o nome dos arquivos que irão executar a instalação(contem Install 
 
 
 &nbsp;
-*Modo Debug*</br>
+#### Modo Debug</br>
 &nbsp;
 arquivo: "InstallDebugInvisivel.exe"</br>
 Função: Liga o Modo Debug e Console. Usado para saber se a aplicação está importando as bibliotecas e executando sem erros internos.</br>
@@ -84,7 +84,7 @@ Codificação: Testado</br>
 
 
 &nbsp;
-*Modo Normal*</br>
+#### Modo Normal</br>
 &nbsp;
 arquivo: "InstallNormalInvisivel.exe"</br>
 Função: Não liga o modo Debug, mas liga o modo console. Usado quando seu aplicativo não possui telas para funcionar. Uso padrão para aplicação com unico arquivo sendo Pyhton.</br>
@@ -98,7 +98,7 @@ Codificação: Testado
 
 
 &nbsp;
-*Modo TelaExtra*</br>
+#### Modo TelaExtra</br>
 &nbsp;
 arquivo: "InstallTelaExternaInvisivel.exe"
 Função: Desliga modo Debug e Console. Usado para aplicativo já testado no Debug. Uso para Entrega ou produção Final.
@@ -111,7 +111,7 @@ Codificação: Não Testado
 
 
 &nbsp;
-*Sobre:*</br>
+#### Sobre:</br>
 &nbsp;
 Desenvolvimento Atual:</br>
 os instaladores são como Templates prontos.</br>
@@ -127,7 +127,7 @@ A Bibliteca "PyInstaller" busca as dependencias de forma automatizada.</br>
 
 
 &nbsp;
-*Consideração Final*</br>
+#### Consideração Final</br>
 &nbsp;
 1-Não sou responsável por erros que venha acontecer com a instalação ou falha em execuções por causa de arquivos ou dll ou outros motivos. Cada projeto tem suas peculiaridades e são infinitas.</br>
 2-O Projeto não está perfeitamente completo, leia sobre o "Desenvolvimento Atual:"</br>
