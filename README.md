@@ -13,10 +13,10 @@ Linguagem Python</br>
 
 *Índices*
 &nbsp;
-- <a href="https://github.com/geniodev/VozTexto#voztexto" target="_self">Inicio</a>
-- <a href='https://github.com/geniodev/VozTexto#bibliotecas-instalar' target='_self'>Bibliotecas Install</a>
-- <a href='https://github.com/geniodev/VozTexto#documenta%C3%A7%C3%A3o---f%C3%B3rmulas' target='_self'>Documentação</a>
-  - <a href='https://github.com/geniodev/VozTexto#remove-acentos-das-strings-inseridas-no-txt' target='_self'>Remove acentos das strings inseridas no 'txt'</a>
+- <a href="https://github.com/geniodev/ExeExpress#exeexpress-python" target="_self">Inicio</a>
+- <a href='https://github.com/geniodev/ExeExpress#documenta%C3%A7%C3%A3o' target='_self'>Documentação</a>
+
+  - <a href='' target='_self'>Remove acentos das strings inseridas no 'txt'</a>
     - <a href='https://github.com/geniodev/VozTexto#remove-acentos-das-strings-inseridas-no-txt' target='_self'>remover_acentos(txt)</a>
   - <a href='https://github.com/geniodev/VozTexto#ouvi-a-fala-de-voz-e-retorna-o-texto-sem-acentos' target='_self'>Ouvi a fala de voz e retorna o texto sem acentos</a>
     - <a href='https://github.com/geniodev/VozTexto#ouvi-a-fala-de-voz-e-retorna-o-texto-sem-acentos' target='_self'>ListenWorkd()</a>
@@ -36,7 +36,7 @@ Linguagem Python</br>
 
 
 &nbsp;
-#### como usar:</br>
+#### Como usar:</br>
 &nbsp;
 Crie uma pasta e coloque todo o seu projeto e arquivos nele.</br>
 Copie um dos arquivos "InstallDebugInvisivel.exe"/"InstallNormalInvisivel.exe"/"InstallTelaExternaInvisivel.exe" para a pasta dos seu projeto.</br>
