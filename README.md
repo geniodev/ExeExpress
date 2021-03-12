@@ -15,18 +15,14 @@ Linguagem Python</br>
 &nbsp;
 - <a href="https://github.com/geniodev/ExeExpress#exeexpress-python" target="_self">Inicio</a>
 - <a href='https://github.com/geniodev/ExeExpress#documenta%C3%A7%C3%A3o' target='_self'>Documentação</a>
-
-  - <a href='' target='_self'>Remove acentos das strings inseridas no 'txt'</a>
-    - <a href='https://github.com/geniodev/VozTexto#remove-acentos-das-strings-inseridas-no-txt' target='_self'>remover_acentos(txt)</a>
-  - <a href='https://github.com/geniodev/VozTexto#ouvi-a-fala-de-voz-e-retorna-o-texto-sem-acentos' target='_self'>Ouvi a fala de voz e retorna o texto sem acentos</a>
-    - <a href='https://github.com/geniodev/VozTexto#ouvi-a-fala-de-voz-e-retorna-o-texto-sem-acentos' target='_self'>ListenWorkd()</a>
-  - <a href='https://github.com/geniodev/VozTexto#fala-a-hora-atual-e-minutos' target='_self'>Fala a hora Atual e minutos</a>
-    - <a href='https://github.com/geniodev/VozTexto#fala-a-hora-atual-e-minutos' target='_self'>Falarhora()</a>
-  - <a href='https://github.com/geniodev/VozTexto#voz-para-texto' target='_self'>Voz para Texto</a>
-    - <a href='https://github.com/geniodev/VozTexto#voz-para-texto' target='_self'>OuvirFala()</a>
-  - <a href='https://github.com/geniodev/VozTexto#texto-para-voz' target='_self'>Texto para Voz</a>
-    - <a href='https://github.com/geniodev/VozTexto#texto-para-voz' target='_self'>falag(falaragora)</a>
-
+  - <a href='https://github.com/geniodev/ExeExpress#como-usar' target='_self'>Como usar</a>
+  - <a href='https://github.com/geniodev/ExeExpress#como-funciona' target='_self'>Como funciona</a>
+  - <a href='https://github.com/geniodev/ExeExpress#obrigatoriedades--necess%C3%A1rio' target='_self'>Obrigatoriedades / Necessário</a>
+  - <a href='https://github.com/geniodev/ExeExpress#modo-debug' target='_self'>Modo Debug</a>
+  - <a href='https://github.com/geniodev/ExeExpress#modo-normal' target='_self'>Modo Normal</a>
+  - <a href='https://github.com/geniodev/ExeExpress#modo-telaextra' target='_self'>Modo TelaExtra</a>
+  - <a href='https://github.com/geniodev/ExeExpress#sobre' target='_self'>Sobre</a>
+  - <a href='https://github.com/geniodev/ExeExpress#considera%C3%A7%C3%A3o-final' target='_self'>Consideração Final</a>
 
 
 
